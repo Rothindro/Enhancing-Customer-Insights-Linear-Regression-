@@ -1,4 +1,5 @@
 # Enhancing Customer Insights: Predictive Analysis of Spending Patterns Across Digital Platforms
+---
 ### Overview:
 This project examines customer spending behavior through an analysis of a dataset that encompasses yearly expenditures across digital platforms, including both a website and a mobile app, alongside customer membership duration. The primary goal is to predict future spending patterns, offering insights that can support strategic decision-making for optimizing digital experiences. Ultimately, the findings will help inform potential areas of focus for enhancing customer engagement and maximizing spending.
 
@@ -9,5 +10,5 @@ This project examines customer spending behavior through an analysis of a datase
 - __Time on Website:__ The average time spent on the website, also measured in minutes.
 - __Length of Membership:__ The duration of each customer’s membership in years.
 
----
+Sciki-Learn python library has been used to build a Multiple Linear Regression Model utilizing the dataset. The model will predict customers yearly spending on the e-commerce platform which will help the company make critical decisions for the digital infrastructure of the company and customers behavior.
 
